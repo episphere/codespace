@@ -1,0 +1,1 @@
+console.log(`cspace.js loaded at ${Date()}`)
